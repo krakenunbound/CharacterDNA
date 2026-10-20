@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: Character DNA
+## Notes: Capture appearance profiles and explicitly preview them in the barber shop.
+## Author: The Kraken
+## Version: 0.3.0
+## SavedVariables: CharacterDNADB
+Core.lua
+Serialization.lua
+Storage.lua
+ApiProbe.lua
+Capture.lua
+Restore.lua
+UI.lua
